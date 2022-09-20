@@ -1,5 +1,6 @@
-// Week 2: Examples from topics covered in Chapter 2 of Dietel textbook.
-// Text-printing program.
+/* CP2280 - Week 2 */
+// Examples from topics covered in Chapter 2 of Dietel textbook.
+
 import java.util.Scanner;
 
 public class Week2Chapter2 {
