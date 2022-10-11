@@ -1,8 +1,9 @@
+/* Exercise 4.21: Largest Int */
+
 import java.util.Scanner;
 
-// Exercise 4.21
 
-public class Largest {
+public class EX421 {
     public static void main(String[] args) {
 
         System.out.println("---- Largest ----\n");

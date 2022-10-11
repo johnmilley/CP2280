@@ -1,4 +1,5 @@
-package EX417;
+/* Exercise 4.17: KM per Litre */
+
 import java.util.Scanner;
 
 public class EX417 {
